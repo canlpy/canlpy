@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Can
-- 👀 I’m interested in Ios Development
-- 🌱 I’m currently learning Swift & Swift Ui
+- 👀 I’m interested in Web & Mobile Development
+- 🌱 I’m currently learning React & Swift
 
